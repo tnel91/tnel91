@@ -4,7 +4,6 @@
 ---
 
 [![Linkedin: travisnelson91](https://img.shields.io/badge/-travisnelson91-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/travisnelson91/)](https://www.linkedin.com/in/travisnelson91/)
-[![GitHub tnel91](https://img.shields.io/badge/-tnel91-white?style=for-the-badge&logo=GitHub&logoColor=black&link=https://github.com/tnel91)](https://github.com/tnel91)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black&link=https://travis-nelson.netlify.app/)](https://travis-nelson.netlify.app/)
 
 
