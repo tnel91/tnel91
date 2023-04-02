@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Travis</h1>
 <h3 align="center">I'm a software engineer out of metro Atlanta with a diverse technical and educational background in zoological operations.</h3>
 
-- 🔭 I’m currently working on: [Projectly](https://github.com/tnel91/project-planner-frontend)
+- 🔭 I’m currently working on: [**Projectly**](https://github.com/tnel91/project-planner-frontend)
 
 - 🌱 I’m currently learning: **SQL**
 
-- 👨‍💻 All of my projects are available at: [https://travis-nelson.netlify.app/](https://travis-nelson.netlify.app/)
+- 👨‍💻 All of my projects are available at: [**https://travis-nelson.netlify.app/**](https://travis-nelson.netlify.app/)
 
 - 📫 How to reach me: **tjnel6691@gmail.com**
 
-- 📄 Know about my experiences: [Resume](https://docs.google.com/document/d/18djarcA_Kp9VRYb0nzq1-XPg03TQYezf9ceX-jG1UzI/edit?usp=sharing)
+- 📄 Know about my experiences: [**Resume**](https://docs.google.com/document/d/18djarcA_Kp9VRYb0nzq1-XPg03TQYezf9ceX-jG1UzI/edit?usp=sharing)
 
 - ⚡ Fun fact: **I have a lot of interesting animal stories!**
 
