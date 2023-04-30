@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Travis</h1>
 <h3 align="center">I'm a software engineer out of metro Atlanta with a diverse technical and educational background in zoological operations.</h3>
 
-- 🔭 I’m currently working on: [**Projectly**](https://github.com/tnel91/project-planner-frontend)
+- 🔭 I’m currently working on: [**Projectly**](https://github.com/tnel91/project-planner-frontend), [**My Recipe Database**](https://github.com/tnel91/My-Recipe-Database)
 
 - 🌱 I’m currently learning: **SQL**
 
